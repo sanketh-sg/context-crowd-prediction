@@ -9,7 +9,6 @@ This project focuses on time series forecasting using "Prophet" time series mode
 - [Usage](#usage)
 - [Data](#data)
 - [Models](#models)
-- [Contributing](#contributing)
 - [License](#license)
 
 
