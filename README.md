@@ -34,9 +34,9 @@ The project uses historical data on people count, temperature, and other relevan
 ## Models
 The project implements several time series forecasting models, including Prophet and regression-based approaches. Each model is trained using historical data and evaluated using performance metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE).
 
-Sprint 1 contains model with default parameters that prophet offers
-Sprint 2 contains model with parameters modified accordingly to fit the curve.
-Sprint 3 contains models that explains correlation between temp and people count.  
+* Sprint 1 contains model with default parameters that prophet offers.
+* Sprint 2 contains model with parameters modified accordingly to fit the curve.
+* Sprint 3 contains models that explains correlation between temp and people count.  
 
 ## Authors and acknowledgment
 Thanks to my teammates and professors who guided us in this project.
