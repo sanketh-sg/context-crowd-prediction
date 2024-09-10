@@ -39,4 +39,4 @@ The project implements several time series forecasting models, including Prophet
 * Sprint 3 contains models that explains correlation between temp and people count.  
 
 ## Authors and acknowledgment
-Thanks to my teammates and professors who guided us in this project.
+Thanks to my teammates and professors of Mobile Communications chair from University of Bamberg who guided us in this project.
